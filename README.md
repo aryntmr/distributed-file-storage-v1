@@ -193,8 +193,8 @@ This is a portfolio project, but I'm open to feedback and suggestions! Feel free
 
 **Aryan Tomar**
 - GitHub: [@aryntmr](https://github.com/aryntmr)
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: [Connect with me](https://linkedin.com/in/aryan-tomar-29ab811ba/)
+- Email: at6304@nyu.edu
 
 ---
 
